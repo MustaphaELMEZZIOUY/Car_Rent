@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@googlemaps/js-api-loader": "^1.15.1",
     "@heroicons/react": "^2.0.12",
     "@prisma/client": "^4.6.1",
     "@tailwindcss/aspect-ratio": "^0.4.2",
@@ -24,6 +25,7 @@
     "yup": "^0.32.11"
   },
   "devDependencies": {
+    "@types/google.maps": "^3.50.5",
     "@types/node": "18.7.23",
     "@types/react": "18.0.21",
     "@types/react-dom": "18.0.6",
